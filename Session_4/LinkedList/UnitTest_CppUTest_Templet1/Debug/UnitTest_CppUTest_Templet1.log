@@ -1,8 +1,0 @@
-﻿  TestUnit.cpp
-  LINK : 0 new modules and 1 (out of 64) modules have changed since prior linking
-  Generating non-SAFESEH image.
-  Starting pass 2
-       TestUnit.obj
-       MSVCRTD.lib(loadcfg.obj)
-  Finished pass 2
-  UnitTest_CppUTest_Templet1.vcxproj -> C:\Users\Christian\source\repos\LinkedList\Debug\UnitTest_CppUTest_Templet1.exe

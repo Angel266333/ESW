@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\angel petrov\desktop\4th sem\esw\exercise_2_extras\main.c(11): warning C4131: 'cal_substract': uses old-style declarator
+c:\users\angel petrov\desktop\4th sem\esw\exercise_2_extras\main.c(15): warning C4131: 'cal_multiply': uses old-style declarator
+d:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): warning C4710: 'int printf(const char *const ,...)': function not inlined
+  d:\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note: see declaration of 'printf'
+main.obj : error LNK2019: unresolved external symbol _cal_subtract referenced in function _main
+C:\Users\Angel Petrov\Desktop\4th SEM\ESW\Exercise_2\Debug\Exercise_2.exe : fatal error LNK1120: 1 unresolved externals

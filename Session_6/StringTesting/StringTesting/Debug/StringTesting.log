@@ -1,4 +1,0 @@
-﻿  main.c
-c:\users\angel petrov\desktop\4th sem\esw\session_6\stringtesting\stringtesting\main.c(6): warning C4013: 'open' undefined; assuming extern returning int
-c:\users\angel petrov\desktop\4th sem\esw\session_6\stringtesting\stringtesting\main.c(6): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
-  StringTesting.vcxproj -> C:\Users\Angel Petrov\Desktop\4th SEM\ESW\Session_6\StringTesting\Debug\StringTesting.exe
