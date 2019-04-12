@@ -3,7 +3,15 @@
 #include "LinkedList.h"
 #include <stddef.h>
 
+struct Node {
+	void* data;
+	struct node* next;
+};
 
+struct LinkedList {
+	node * start;
+	int count;
+};
 
 
 int add_item(void*item, linkedList *list) {
@@ -26,7 +34,7 @@ int add_item(void*item, linkedList *list) {
 	}
 	node* nodePointer = list->start;
 
-	//We override untill the nodePointer object is null;
+	//We override until the nodePointer object is null;
 	while (nodePointer -> next != NULL) {
 		nodePointer = nodePointer->next;
 
